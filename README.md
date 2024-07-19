@@ -1,2 +1,2 @@
 # codewithfunn
-check
+This is my first repository
